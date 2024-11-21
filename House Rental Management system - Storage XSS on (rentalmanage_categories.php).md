@@ -78,8 +78,9 @@ Content-Disposition: form-data; name="name"
 
 
 ```
-
-
+succeed:
+![Image](https://github.com/tang-0717/VUL/blob/main/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241121214348.png)
+![Image](https://github.com/tang-0717/VUL/blob/main/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241121214341.png)
 
 
 
